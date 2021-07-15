@@ -1,7 +1,7 @@
 ## Link - 
 https://github.com/jdchawla29/MLOps_Assignment.git
 
-List of commands -
+## List of commands -
 ```bash
 $ mkdir MLOps_Assignment
 $ cd MLops_dvc
@@ -19,6 +19,6 @@ $ dvc push
 $ git push origin main
 ```
 
-Values -
+## Values -
 
-Bucket ss -
+## Bucket ss -
